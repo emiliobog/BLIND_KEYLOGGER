@@ -4,15 +4,15 @@ import os
 try:
  import pyHook
 except:
-  print" Instalando Modulo pyHook "
+  print(" Instalando Modulo pyHook ") 
   if os.name=='nt':
     try:
       os.system('C:\Python27\Scripts\pip2.exe install pyHook')
     except:
-      print "Install Python-Pip Sir"
+      print ("Install Python-Pip Sir") 
       raw_input('')
   else:
-    os.system('pip2 install pyHook')
+    os.system('pip2 install pyhook')
 msg00 ="VIVAN LOS GATITOS UWU"" - BOG"
 for i in msg00:
         sys.stdout.write(i)
@@ -43,4 +43,4 @@ while 1:
 EMMANUEL MILOS
 EMILIO BARROSO
 BOG INC 2k18-2k19
-"""
+""""
