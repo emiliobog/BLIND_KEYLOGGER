@@ -1,3 +1,3 @@
 # BLIND_KEYLOGGER
-UN SIMPLE KEYLOGGER UWU
+Keylogger para uso no comercial
 ![Alt text](cap.png?raw=true "CAPTURA/S")
